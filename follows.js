@@ -14,7 +14,7 @@
 
 	var defaultKey		= 'IHxkmVNSdW7jXRSp4wdZdc8SYs3RDaiPUDKtnvZYwPIVRg8R', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1711049650], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'Soil Moisture Sensor HS10', // Replaces Xively logo in the header
+		applicationName	= 'Soil Moisture', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
